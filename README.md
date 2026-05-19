@@ -15,34 +15,26 @@ An interactive budgeting dashboard built with Vue 3, Chart.js, and Firebase.
 - Chart.js + vue-chartjs (Doughnut, Bar, Line charts)
 - Firebase Auth + Firestore (optional)
 
-[19:50, 19/5/2026] Durga: ### 🎯 Goals Section
-![Goals](./images/goals.png)
-[19:52, 19/5/2026] Durga: Thro## 📸 Project Screenshots
+# Screenshots
 
-### 🏠 Homepage
-![Homepage](./images/homepage.png)
+## Dashboard
+![Dashboard](dashboard.png)
 
-### 📊 Dashboard
-![Dashboard](./images/dashboard.png)
+## Analytics
+![Analytics](analytics.png)
 
-### 📈 Analytics
-![Analytics](./images/analytics.png)
+## Goals
+![Goals](goal.png)
 
-### 💸 Add Transaction
-![Transaction](./images/transaction.png)
+## Transactions
+![Transactions](transaction.png)
 
-### 📑 Transaction History
-![Transaction Page](./images/transactionpage.png)
+## Transaction Page
+![Transaction Page](transactionpage.png)
 
-### 🎯 Goals
-![Goals](./images/goals.png)
-## Getting Started
+## Full Project View
+![Project View](Screenshot%202026-05-19%20192728.png)
 
-```bash
-cd budget-planner
-npm install
-npm run dev
-```
 
 ## Firebase Setup (Optional)
 1. Create a project at [Firebase Console](https://console.firebase.google.com)
