@@ -15,6 +15,26 @@ An interactive budgeting dashboard built with Vue 3, Chart.js, and Firebase.
 - Chart.js + vue-chartjs (Doughnut, Bar, Line charts)
 - Firebase Auth + Firestore (optional)
 
+  ## 📸 Project Screenshots
+
+### 🏠 Homepage
+![Homepage](./images/homepage.png)
+
+### 📊 Dashboard
+![Dashboard](./images/dashboard.png)
+
+### 📈 Analytics
+![Analytics](./images/analytics.png)
+
+### 💸 Transaction Form
+![Transaction](./images/transaction.png)
+
+### 📑 Transaction Page
+![Transaction Page](./images/transaction-page.png)
+
+### 🎯 Goals Section
+![Goals](./images/goals.png)
+
 ## Getting Started
 
 ```bash
